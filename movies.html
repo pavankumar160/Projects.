@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HuraWatch Clone</title>
+    <link rel="stylesheet" href="movies.css">
+</head>
+<body>
+    <header>
+        <h1>Popular Movies</h1>
+    </header>
+    
+    <section id="filters">
+        <div class="filter-group">
+            <label for="type">Type</label>
+            <select id="type">
+                <option value="movies">Movies</option>
+            </select>
+        </div>
+
+        <div class="filter-group">
+            <label for="genre">Genre</label>
+            <select id="genre">
+                <option value="all">All</option>
+                <option value="action">Action</option>
+                <option value="adventure">Adventure</option>
+                <option value="romance">Romance</option>
+                <option value="horror">Horror</option>
+                <option value="documentary">Documentary</option>
+                <option value="drama">Drama</option>
+                <option value="sci-fi">Sci-Fi</option>
+                <option value="fantasy">Fantasy</option>
+            </select>
+        </div>
+
+        <div class="filter-group">
+            <label for="country">Country</label>
+            <select id="country">
+                <option value="all">All</option>
+                <option value="india">India</option>
+                <option value="usa">USA</option>
+                <option value="china">China</option>
+                <option value="uk">UK</option>
+                <option value="japan">Japan</option>
+                <option value="korea">Korea</option>
+                <option value="italy">Italy</option>
+                <option value="germany">Germany</option>
+            </select>
+        </div>
+
+        <div class="filter-group"> <!-- Corrected the closing div tag here -->
+            <label for="language">Language</label>
+            <select id="language">
+                <option value="all">All</option>
+                <option value="English">English</option>
+                <option value="Telugu">Telugu</option>
+                <option value="Madrid">Madrid</option>
+                <option value="Hindi">Hindi</option>
+                <option value="japanese">Japanese</option>
+                <option value="Tamil">Tamil</option>
+                <option value="korean">Korean</option>
+                <option value="german">German</option>
+            </select>
+        </div>
+
+        <div class="filter-group">
+            <label for="year">Year</label>
+            <select id="year">
+                <option value="all">All</option>
+                <script>
+                    let yearSelect = document.getElementById("year");
+                    for (let i = 2024; i >= 2007; i--) {
+                        let option = document.createElement("option");
+                        option.value = i;
+                        option.text = i;
+                        yearSelect.add(option);
+                    }
+                </script>
+            </select>
+        </div>
+
+        <div class="filter-group">
+            <label for="sort">Sort</label>
+            <select id="sort">
+                <option value="default">Default</option>
+            </select>
+        </div>
+
+        <button id="filterButton" class="filter-button">Filter</button>
+    </section>
+
+    <section id="movie-list" class="movie-grid">
+        <!-- Movie items will be rendered here -->
+    </section>
+
+    <script src="movies.js"></script>
+</body>
+</html>

@@ -1,0 +1,146 @@
+[
+    {
+        "title": "Titanic",
+        "genre": "romance",
+        "country": "usa",
+        "year": 1997,
+        "language": "english",
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/18/Titanic_%281997_film%29_poster.png",
+        "duration": "195m"
+    },
+    {
+        "title": "Modern Masters: S.S.Rajamouli",
+        "genre": "documnetry",
+        "country": "india",
+        "year": 2024,
+        "language": "english",
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/b6/Modern_Masters%2C_S._S._Rajamouli_%28film%29_poster.jpg",
+        "duration": "114m"
+    },
+    {
+        "title": "Godzilla minus one",
+        "genre": "action",
+        "country": "japan",
+        "year": 2023,
+        "language": "japanese",
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/e0/Godzilla_Minus_One_Poster.jpeg",
+        "duration": "125m"
+    },
+    {
+        "title": "Kaithi",
+        "genre": "action",
+        "country": "india",
+        "year": 2019,
+        "language": "tamil",
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/79/Kaithi_2019_poster.jpg",
+        "duration": "146m"
+    },
+    {
+        "title": "Painted Skin: The Resurrection",
+        "genre": "fantasy",
+        "country": "china",
+        "year": 2012,
+        "language": "mandarin",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a7/Painted_Skin-The_Resurrection.jpg_%28Xiao_Wei%29.jpg",
+        "duration": "120m"
+    },
+    {
+        "title": "Aravinda Sametha Veera Raghava",
+        "genre": "action",
+        "country": "india",
+        "year": 2018,
+        "language": "telugu",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/d7/Aravinda_Sametha_Veera_Raghava.jpg",
+        "duration": "162m"
+    },
+    {
+        "title": "Time to Hunt",
+        "genre": "drama",
+        "country": "korean",
+        "year": 2020,
+        "language": "korea",
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/7b/Time_to_Hunt_%28film%29.jpg",
+        "duration": "119m"
+    },
+    {
+        "title": "Jade Dynasty",
+        "genre": "fantasy",
+        "country": "china",
+        "year": 2019,
+        "language": "mandarin",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/8e/Jade_Dynasty_%28%E8%AF%9B%E4%BB%99%29_2019_Movie_Poster.jpg",
+        "duration": "121m"
+    },
+    {
+        "title": "7 Minutes",
+        "genre": "drama",
+        "country": "italy",
+        "year": 2016,
+        "language": "italian",
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/60/7-minuti-michele-placido-poster.jpg",
+        "duration": "90m"
+    },
+    {
+        "title": "Pathaan",
+        "genre": "action",
+        "country": "india",
+        "year": 2023,
+        "language": "hindi",
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/c3/Pathaan_film_poster.jpg",
+        "duration": "146m"
+    },
+    {
+        "title": "The 12th Man",
+        "genre": "adventure",
+        "country": "germany",
+        "year": 2017,
+        "language": "german",
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/65/The_12th_Man_%28film%29.jpg",
+        "duration": "135m"
+    },
+    {
+        "title": "It-Chapter-1",
+        "genre": "horror",
+        "country": "usa",
+        "year": 2017,
+        "language": "english",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/5a/It_%282017%29_poster.jpg",
+        "duration": "135m"
+    },
+    {
+        "title": "Alien: Romulus",
+        "genre": "sci-fi",
+        "country": "usa",
+        "year": 2024,
+        "language": "English",
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/cb/Alien_Romulus_2024_%28poster%29.jpg",
+        "duration": "119m"
+    },
+    {
+        "title": "Animal",
+        "genre": "drama",
+        "country": "india",
+        "year": 2024,
+        "language": "hindi",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/90/Animal_%282023_film%29_poster.jpg",
+        "duration": "201m"
+    },
+    {
+        "title": "Kalki-2898 AD",
+        "genre": "sci-fi",
+        "country": "india",
+        "year": 2024,
+        "language": "telugu",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/4c/Kalki_2898_AD.jpg",
+        "duration": "181m"
+    },
+    {
+        "title": "RRR",
+        "genre": "action",
+        "country": "india",
+        "year": 2022,
+        "language": "telugu",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/d7/RRR_Poster.jpg",
+        "duration": "183m"
+    }
+]
